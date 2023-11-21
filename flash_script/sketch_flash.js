@@ -55,7 +55,7 @@ function preload(){
   tFont[4] = loadFont("resources/ApocLC-Regular-Desktop.otf");
   tFont[5] = loadFont("resources/BaseNeueTrial-CondensedBlack.otf");
   tFont[6] = loadFont("resources/Cairo-Black.ttf");
-  tFont[7] = loadFont("resources/MonumentGrotesk-Regular.otf");
+  tFont[7] = loadFont("resources/MonumentGrotesk-Regular.ttf");
 
   currentFont = tFont[7];
   thisFontAdjust = 0.7;
